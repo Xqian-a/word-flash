@@ -6,7 +6,7 @@
 
 **[在线使用](https://word-flash.xqian.top/)** → 部署于github pages
 
-## 核心玩法
+## 核心用法
 
 每页 20 个单词铺满屏幕，快速扫描：
 
