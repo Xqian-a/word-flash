@@ -4,7 +4,7 @@
 
 一个纯粹的英语单词速记工具。没有花哨的 UI，没有登录注册，没有广告。打开就背，关掉就走。
 
-**[在线使用](https://word-flash.xqian.top/)**→ 部署于github pages
+**[在线使用](https://word-flash.xqian.top/)** → 部署于github pages
 
 ## 核心玩法
 
