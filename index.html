@@ -1024,6 +1024,12 @@
       const data = localStorage.getItem(STORAGE_KEY);
       if (data) {
         state.words = JSON.parse(data);
+        // Pre-populate defCache with saved definitions
+        for (const w of state.words) {
+          if (w.definition) {
+            defCache[w.word.toLowerCase().trim()] = w.definition;
+          }
+        }
       }
     } catch (e) { /* corrupted, ignore */ }
   }
@@ -1150,6 +1156,10 @@
         definition: item.definition,
         status: 'unfamiliar'
       });
+      // Cache definition so it won't be re-fetched from API
+      if (item.definition) {
+        defCache[item.word.toLowerCase().trim()] = item.definition;
+      }
       existing.add(item.word.toLowerCase());
       added++;
     }
