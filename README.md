@@ -16,7 +16,7 @@
 
 直接打开 `index.html` 即可使用，无需服务器。
 
-或访问 [GitHub Pages 在线版](https://your-username.github.io/word-flash/)。
+或访问 [GitHub Pages 在线版](https://xqian-a.github.io/word-flash/)。
 
 ## 文件说明
 
