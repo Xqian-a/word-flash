@@ -62,7 +62,7 @@
 
 直接访问 **[xqian-a.github.io/word-flash](https://xqian-a.github.io/word-flash/)**
 
-**[word-flash.xqian.top](word-flash.xqian.top)**
+或者是**[word-flash.xqian.top](word-flash.xqian.top)**
 
 ### 本地使用
 
