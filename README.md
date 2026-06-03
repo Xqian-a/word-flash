@@ -4,7 +4,7 @@
 
 一个纯粹的英语单词速记工具。没有花哨的 UI，没有登录注册，没有广告。打开就背，关掉就走。
 
-**[在线使用](word-flash.xqian.top)**→ 通过github pages部署
+[在线使用](word-flash.xqian.top)→ 通过github pages部署
 
 ## 核心玩法
 
@@ -62,7 +62,7 @@
 
 直接访问 **[xqian-a.github.io/word-flash](https://xqian-a.github.io/word-flash/)**
 
-或者是**[word-flash.xqian.top](word-flash.xqian.top)**
+或者是[word-flash.xqian.top](word-flash.xqian.top)
 
 ### 本地使用
 
