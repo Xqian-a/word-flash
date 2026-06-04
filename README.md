@@ -4,6 +4,8 @@
 
 一个纯粹的英语单词速记工具。没有花哨的 UI，没有登录注册，没有广告。打开就背，关掉就走。
 
+<img width="2840" height="1534" alt="image" src="https://github.com/user-attachments/assets/23a13922-ab52-4eac-9d63-239ea755a576" />
+
 **[在线使用](https://word-flash.xqian.top/)** → 部署于github pages
 
 ## 核心用法
@@ -17,6 +19,10 @@
 
 不认识的词自动归入「不熟」分类，可反复复习直到记住。
 
+<img width="2840" height="1534" alt="image" src="https://github.com/user-attachments/assets/4f68bd7e-9fb9-498e-967f-3fb70b3bbba0" />
+
+<img width="2840" height="1534" alt="image" src="https://github.com/user-attachments/assets/9d3def99-de29-4427-9718-355ea93f20ef" />
+
 ## 功能一览
 
 | 功能 | 说明 |
@@ -29,6 +35,8 @@
 | 数据备份 | 导出/导入 JSON，跨设备同步学习进度（含发音设置） |
 | 离线使用 | 纯前端，无需服务器，本地打开即可 |
 
+<img width="2840" height="1534" alt="image" src="https://github.com/user-attachments/assets/051e0fba-c5d9-4983-95b9-740de3f1bab1" />
+
 ## 发音设置
 
 使用浏览器内置 SpeechSynthesis 引擎，支持：
@@ -38,6 +46,8 @@
 - **音高调节** — 0.5 ~ 2.0
 - **静音开关** — 一键切换静音/发音
 - **设置持久化** — 发音设置随数据备份一起导出
+
+<img width="2840" height="1534" alt="image" src="https://github.com/user-attachments/assets/55cedad0-f99b-4b34-a4f4-4afe83518e76" />
 
 ## 内置词典
 
